@@ -7,8 +7,8 @@ var str = " "
 let month = 2
 let day = 18
 
-let inputMonth = 2
-let inputDay = 18
+let inputMonth = 4
+let inputDay = 8
 
 
 if inputMonth==month && inputDay==day{
